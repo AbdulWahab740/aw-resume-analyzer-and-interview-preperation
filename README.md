@@ -1,4 +1,4 @@
-# 📄 Resume Analyzer with LangChain & Gemini
+# 📄 AW Resume Analyzer and Interview Preperation
 
 An interactive web application built with **Streamlit**, **LangChain**, and **Gemini (Google Generative AI)** to intelligently analyze resumes and help job seekers improve their chances through ATS optimization, interview preparation, and expert resume reviews.
 
