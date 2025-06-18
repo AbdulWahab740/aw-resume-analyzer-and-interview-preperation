@@ -3,7 +3,8 @@
 ## Live Demo ( I am using free api key of Gemini Flash. So the App may not work but i am sharing some images of working demo )
 https://aw-resume-analyzer-and-interview-prep.streamlit.app/
 
-![Alt]("./demo_images/1.png")
+![Alt](./demo_images/1.png)
+
 An interactive web application built with **Streamlit**, **LangChain**, and **Gemini (Google Generative AI)** to intelligently analyze resumes and help job seekers improve their chances through ATS optimization, interview preparation, and expert resume reviews.
 
 ---
