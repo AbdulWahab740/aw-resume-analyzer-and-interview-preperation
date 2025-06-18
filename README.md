@@ -25,14 +25,6 @@ An interactive web application built with **Streamlit**, **LangChain**, and **Ge
 
 ---
 
-## 📂 Project Structure
-📁 resume-analyzer/
-├── app.py # Main Streamlit application
-├── prompts.py # All prompt templates per mode
-├── requirements.txt # Python dependencies
-└── README.md # Project overview and instructions
-
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
