@@ -5,6 +5,7 @@ https://aw-resume-analyzer-and-interview-prep.streamlit.app/
 
 ![Alt](./demo_images/1.png)
 
+# Further Images are in the Bottom!!
 An interactive web application built with **Streamlit**, **LangChain**, and **Gemini (Google Generative AI)** to intelligently analyze resumes and help job seekers improve their chances through ATS optimization, interview preparation, and expert resume reviews.
 
 ---
@@ -66,3 +67,11 @@ streamlit run app.py
 .docx
 .txt
 
+![Alt](./demo_images/2.png)
+![Alt](./demo_images/3.png)
+![Alt](./demo_images/4.png)
+![Alt](./demo_images/5.png)
+![Alt](./demo_images/6.png)
+![Alt](./demo_images/7.png)
+
+## Thank you so much for visiting this Repo.
