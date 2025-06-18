@@ -4,6 +4,7 @@
 https://aw-resume-analyzer-and-interview-prep.streamlit.app/
 
 ![Alt](https://drive.google.com/file/d/12kwKqS6wjAUicO-AMwwRxNjQG0Sgz1Qq/view?usp=drive_link)
+<img src="[relative/path/to/image.png](https://drive.google.com/file/d/12kwKqS6wjAUicO-AMwwRxNjQG0Sgz1Qq/view?usp=drive_link)" width="400">
 An interactive web application built with **Streamlit**, **LangChain**, and **Gemini (Google Generative AI)** to intelligently analyze resumes and help job seekers improve their chances through ATS optimization, interview preparation, and expert resume reviews.
 
 ---
