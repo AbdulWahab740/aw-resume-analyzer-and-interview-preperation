@@ -36,7 +36,7 @@ An interactive web application built with **Streamlit**, **LangChain**, and **Ge
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/resume-analyzer.git
+git clone https://github.com/AbdulWahab740/resume-analyzer.git
 cd resume-analyzer
 ```
 ### 2. Install Dependencies
